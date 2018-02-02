@@ -1,53 +1,29 @@
-Opdrachtomschrijving
+# Opdrachtomschrijving
 
 [projectnaam]
 
-
-
-
-
-
-
-Bachelor Elektronica-ICT
-
-
+# Bachelor Elektronica-ICT
 academiejaar 2017-2018
 jaar 3 semester 1-2
 
-Voornaam Naam
+ # Voornaam Naam
  
-Opdrachtomschrijving	1
-1	Opdrachtgever	3
-2	Samenvatting	3
-3	Situatie As-Is	3
-4	Situatie To-Be	3
-4.1	Doelstelling	3
-4.2	Scope	3
-4.3	Niet in Scope	3
-5	Planning	3
-5.1	Hoofdlijnen	3
-5.2	Toelichting fases	3
-6	Functioneel design	3
-7	Technisch design	3
-8	Beschrijving van eventuele impact op de huidige infrastructuur	3
+## Opdrachtomschrijving
 
- 
-
-
-1	Opdrachtgever
+### 1	Opdrachtgever
 [De opdrachtgever van het project en zijn rol in het project.]
-2	Samenvatting
+### 2	Samenvatting
    [Korte samenvatting van het project en context, 1 of 2 alinea’s]
-3	Situatie As-Is
+### 3	Situatie As-Is
 [De beschrijving van het huidig project of de huidige werkwijze en probleemstelling.]
 
-4	Situatie To-Be
+### 4	Situatie To-Be
 Projectdefinitie
-4.1	Doelstelling
+#### 4.1	Doelstelling
 [Uitschrijven van de doelstellingen van het voorgestelde project]
-4.2	Scope
+#### 4.2	Scope
 •	[Opsommen van de functionaliteit en onderdelen dit bij het uitvoeren van het project horen. Probeer dit zo sluitend mogelijk te doen, dit voorkomt discussies.]
-4.3	Niet in Scope
+#### 4.3	Niet in Scope
 •	[Expliciet vernoemen wat niet tot de draagwijdte (scope) van het project hoort, bv. het aanleveren van onderdelen, bestellingen plaatsen, geen onderhoud voorzien van servers…]
 5	Planning
 5.1	Hoofdlijnen
