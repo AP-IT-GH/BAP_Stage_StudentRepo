@@ -25,14 +25,14 @@ Projectdefinitie
 •	[Opsommen van de functionaliteit en onderdelen dit bij het uitvoeren van het project horen. Probeer dit zo sluitend mogelijk te doen, dit voorkomt discussies.]
 #### 4.3	Niet in Scope
 •	[Expliciet vernoemen wat niet tot de draagwijdte (scope) van het project hoort, bv. het aanleveren van onderdelen, bestellingen plaatsen, geen onderhoud voorzien van servers…]
-5	Planning
-5.1	Hoofdlijnen
+### 5	Planning
+#### 5.1	Hoofdlijnen
 [Korte beschrijving van de planning met de grootste deadlines.]
-5.2	Toelichting fases
+#### 5.2	Toelichting fases
 [Indien de planning in fases of iteraties verloopt, bespreek dan kort hoe deze opgebouwd zijn.]
-6	Functioneel design
-•	[Beschrijf hier wat er in het ontwerp reeds opgenomen worden mbt functionaliteit.]
-7	 Technisch design
-•	[Dit mag een apart document zijn. Gelieve hier dan wel naar te verwijzen.]
-8	Beschrijving van eventuele impact op de huidige infrastructuur
-•	[Beschrijf de impact op de infrastructuur. Dienen er servers aangekocht te worden,geherinstalleerd, of gewijzigd te worden? Worden er andere systemen in het landschap voorzien of verwijderd?]
+### 6	Functioneel design
+[Beschrijf hier wat er in het ontwerp reeds opgenomen worden mbt functionaliteit.]
+### 7	 Technisch design
+[Dit mag een apart document zijn. Gelieve hier dan wel naar te verwijzen.]
+### 8	Beschrijving van eventuele impact op de huidige infrastructuur
+[Beschrijf de impact op de infrastructuur. Dienen er servers aangekocht te worden,geherinstalleerd, of gewijzigd te worden? Worden er andere systemen in het landschap voorzien of verwijderd?]
