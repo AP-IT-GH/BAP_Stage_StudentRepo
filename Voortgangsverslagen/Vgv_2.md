@@ -7,7 +7,7 @@
 
 ## Technische omschrijving
 <!--Technische omschrijving van de evolutie van het project tijdens de betrokken periode, met aanduiding van de reeds bekomen resultaten en een planning voor de verdere uitwerking, welke problemen zijn ondervonden en hun oplossingen:-->
-<!--Minimum 3000 woorden-->
+<!--Minimum 750 woorden-->
 ### Realisaties 
 <!--Kort oplijsting gedane werk zowel onderzoek, analyse als realisaties.-->
 ### Huidige werkpunten
